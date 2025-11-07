@@ -5,6 +5,7 @@
   <a href="https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips" rel="nofollow"><img alt="Forge" src="https://img.shields.io/badge/Forge-5c2148?style=for-the-badge"></a> 
   <a href="https://www.curseforge.com/minecraft/mc-mods/obscure-tooltips" rel="nofollow"><img alt="NeoForge" src="https://img.shields.io/badge/Neo Forge-5c2148?style=for-the-badge"></a> 
   <a href="https://discord.gg/jSHHJSUWdY" target="_blank" rel="nofollow"><img alt="Discord" src="https://img.shields.io/discord/899742852681191444?style=for-the-badge&logo=discord&logoColor=white&label=&labelColor=231C25&color=5c2a21"></a>
+  <a href="https://imgur.com/gallery/obscure-tooltips-media-kit-VPpfjxP" target="_blank"><img alt="Media Kit" src="https://img.shields.io/badge/Get%20Media%20Kit-5c4521?style=for-the-badge&logo=imgur&labelColor=251C20&logoColor=white"></a>
 </center>
 
 <br>
@@ -34,21 +35,23 @@ Just install the mod and launch the game! The built-in resource pack animates it
 
 Want your tooltips to look like arcane scrolls, neon cyberpunk frames, or cursed bloodstains? With Obscure Tooltips, you decide.
 
-# <center>Obscuria Collection Mods</center>
+# <center>Explore More by Obscuria</center>
 
 <center>
-  <a href="https://modrinth.com/mod/obscure-api"><img style="display: inline;" src="https://i.imgur.com/AhHvRAA.png" width="25%" /></a> 
-  <a href="https://modrinth.com/mod/aquamirae"><img style="display: inline;" src="https://i.imgur.com/QiC0VcZ.png" width="25%" /></a> 
-  <a href="https://modrinth.com/mod/obscure-tooltips"><img style="display: inline;" src="https://i.imgur.com/qkyDZ6A.png" width="25%" /></a>
+  <a href="https://modrinth.com/mod/aquamirae"><img style="display: inline;" src="https://i.imgur.com/AWVa1rL.png" width="45%" /></a> 
+  <a href="https://modrinth.com/mod/obscure-tooltips"><img style="display: inline;" src="https://i.imgur.com/K0F3Uyq.png" width="45%" /></a>
 </center>
 <center>
-  <a href="https://modrinth.com/mod/loot-journal"><img style="display: inline;" src="https://i.imgur.com/1r2Ue5Y.png" width="25%" /></a> 
-  <img style="display: inline;" src="https://i.imgur.com/xKaiQBp.png" width="25%" /> 
-  <img style="display: inline;" src="https://i.imgur.com/xKaiQBp.png" width="25%" />
+  <a href="https://modrinth.com/mod/pillager-caravans"><img style="display: inline;" src="https://i.imgur.com/lPK6BrB.png" width="45%" /></a> 
+  <a href="https://modrinth.com/mod/ars-elixirum"><img style="display: inline;" src="https://i.imgur.com/zMZKr3b.png" width="45%" /></a>
 </center>
 <center>
-  <a href="https://www.patreon.com/Obscuria"><img style="display: inline;" src="https://i.imgur.com/4lV9g9R.png" width="75%" /></a>
+  <img style="display: inline;" src="https://i.imgur.com/rjJSLI0.png" width="45%" /> 
+  <img style="display: inline;" src="https://i.imgur.com/rjJSLI0.png" width="45%" />
 </center>
 <center>
-  <a href="https://discord.gg/jSHHJSUWdY"><img style="display: inline;" src="https://i.imgur.com/1Y7y8mO.png" width="75%" /></a>
+  <a href="https://www.patreon.com/Obscuria"><img style="display: inline;" src="https://i.imgur.com/4lV9g9R.png" width="90%" /></a>
+</center>
+<center>
+  <a href="https://discord.gg/jSHHJSUWdY"><img style="display: inline;" src="https://i.imgur.com/1Y7y8mO.png" width="90%" /></a>
 </center>
